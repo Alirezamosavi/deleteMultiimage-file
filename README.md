@@ -1,4 +1,9 @@
 
+Delete multiple image  from PUBLIC FOLDER in LARAVEL?
+
+Video link
+https://youtu.be/PZQDvtRmSeQ
+
 add the below code in controller
 
   public function delete_user($id)
